@@ -14,7 +14,6 @@
 ```
   git clone https://github.com/SikandarJODD/Sveltekit-Lucia-Drizzle.git sv_auth
 ```
-or 
 
 ### Create .env
 
