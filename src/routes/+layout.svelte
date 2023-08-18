@@ -4,6 +4,4 @@
 </script>
 
 <Navbar />
-<div class=" md:px-32 md:py-10 ">
-	<slot />
-</div>
+<slot />

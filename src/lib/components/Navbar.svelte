@@ -13,12 +13,12 @@
 	let isCheck = false;
 </script>
 
-<div class="navbar bg-base-100 md:border-b border-accent md:relative">
-	<div class="navbar-start ">
-		<div class="dropdown ">
+<div class="navbar bg-base-100 md:border-b border-accent md:relative md:px-20">
+	<div class="navbar-start">
+		<div class="dropdown">
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 			<!-- svelte-ignore a11y-label-has-associated-control -->
-			<label tabindex="0" class="btn btn-ghost lg:hidden ">
+			<label tabindex="0" class="btn btn-ghost lg:hidden">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-5 w-5"
